@@ -1,0 +1,17 @@
+table a {
+   color: #fff;
+
+}
+table a:hover{
+   color: #fff;
+}
+.table thead th{
+   width: 25%;
+}
+
+span.text-error {
+
+   color: red;
+   font-size: 12px;
+   line-height: 15px;
+}
